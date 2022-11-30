@@ -1,5 +1,5 @@
 package com.bl.inheritance;
-
+//change return type of method by using different classes
 
 class Animal{
 
